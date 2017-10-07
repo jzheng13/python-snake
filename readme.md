@@ -6,12 +6,19 @@ Based on the Udemy course Python Game Development : Creating a Snake Game from s
 
 A simple snake game.
 
+## How to play
+
+Run the executable in (./dist/pythonsnake/pythonsnake.exe)
+
 ## Extensions
+
+DONE:
 
 TODO:
 
 1. Pause screen
 2. Exit screen that allows restart/quit
+3. Background music
 
 ## Screenshots
 
