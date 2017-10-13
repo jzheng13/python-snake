@@ -8,17 +8,20 @@ A simple snake game.
 
 ## How to play
 
-Run the executable in (./dist/pythonsnake/pythonsnake.exe)
+If you have Python installed on your system, run
+```
+python python-snake.py
+```
+from the game directory.
 
 ## Extensions
 
 DONE:
+1. Game menu
 
 TODO:
-
 1. Pause screen
-2. Exit screen that allows restart/quit
-3. Background music
+2. Background music
 
 ## Screenshots
 
