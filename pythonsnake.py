@@ -42,6 +42,8 @@ else:
 # game display
 screen = pygame.display.set_mode((game_x * unit, game_y * unit))
 pygame.display.set_caption("Snake Game")
+snake_icon = pygame.image.load("pythonsnake.png")
+pygame.display.set_icon(snake_icon)
 
 # colours
 red = pygame.Color(153, 0, 0)         # game over

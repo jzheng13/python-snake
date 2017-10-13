@@ -10,7 +10,7 @@ A simple snake game.
 
 If you have Python installed on your system, run
 ```
-python python-snake.py
+python pythonsnake.py
 ```
 from the game directory.
 
